@@ -1,6 +1,6 @@
 # SQL Portfolio
 
-This repository contains SQL projects and exercises developed as part of my transition into data analytics and data science.
+This repository contains SQL projects demonstrating my work with relational databases, data analysis and practical problem solving.
 
 My projects focus on using SQL to structure, query and analyse data, with an emphasis on practical applications that relate to real-world problems.
 
@@ -34,7 +34,7 @@ The project combines Python and SQL to store, retrieve and manage structured fam
 
 ## SQL Skills
 
-Across my projects and coursework I have worked with:
+Across my projects I have worked with:
 
 - `SELECT`, `WHERE` and filtering
 - `GROUP BY` and aggregate functions
